@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaf22it
-- 👀 I’m interested in fullstack develpment
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning PHP,Laravel,MySQL,Flutter,Bootstrap,Localhost testing :D,
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me via negative.aung@gmail.com
